@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ハルノヒ",
+  "base_artist": "aimyon",
+  "createdAt": "2026-01-08T04:41:57.319432Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハルノヒ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_ハルノヒ_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハルノヒ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/02_ハルノヒ_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハルノヒ",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/03_ハルノヒ_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハルノヒ ー合唱ー",
+      "artist": "Goose house",
+      "has_synced": false,
+      "path": "select/04_ハルノヒ_ー合唱ー_Goose_house.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハルノヒ - Harunohi",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/05_ハルノヒ_-_Harunohi_aimyon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハルノヒ -合唱-",
+      "artist": "Goose house",
+      "has_synced": false,
+      "path": "select/06_ハルノヒ_-合唱-_Goose_house.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハルノヒ (Live in 阪神甲子園球場, 2022.11.05)",
+      "artist": "あいみょん",
+      "has_synced": true,
+      "path": "select/07_ハルノヒ_(Live_in_阪神甲子園球場,_2022.11.05)_あいみょん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハルノヒ -合唱- (カラオケ)",
+      "artist": "Goose house",
+      "has_synced": false,
+      "path": "select/08_ハルノヒ_-合唱-_(カラオケ)_Goose_house.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_04_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_05_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_06_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_07_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_08_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_09_ハルノヒ_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "ハルノヒ",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_10_ハルノヒ_あいみょん.txt"
+    }
+  ]
+}
